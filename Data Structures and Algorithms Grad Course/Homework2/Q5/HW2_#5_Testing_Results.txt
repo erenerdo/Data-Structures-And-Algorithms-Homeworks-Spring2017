@@ -1,0 +1,40 @@
+Enter the size of the randomly generated array you want to quick sort
+1000
+
+Iterative Quicksort on a randomly generated array of size 1000 took 0.001 seconds
+
+Recursive Quicksort on a randomly generated array of size 1000 took 0.0 seconds
+
+Do you want to do another test? y for yes, n for no
+y
+
+Enter the size of the randomly generated array you want to quick sort
+100000
+
+Iterative Quicksort on a randomly generated array of size 100000 took 0.02 seconds
+
+Recursive Quicksort on a randomly generated array of size 100000 took 0.012 seconds
+
+Do you want to do another test? y for yes, n for no
+y
+
+Enter the size of the randomly generated array you want to quick sort
+1000000
+
+Iterative Quicksort on a randomly generated array of size 1000000 took 0.14 seconds
+
+Recursive Quicksort on a randomly generated array of size 1000000 took 0.148 seconds
+
+Do you want to do another test? y for yes, n for no
+y
+
+Enter the size of the randomly generated array you want to quick sort
+10000000
+
+Iterative Quicksort on a randomly generated array of size 10000000 took 1.782 seconds
+
+Recursive Quicksort on a randomly generated array of size 10000000 took 1.694 seconds
+
+Do you want to do another test? y for yes, n for no
+n
+System quitting. Good bye!

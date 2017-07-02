@@ -1,0 +1,80 @@
+Welcome to Eren Erdogan's Union Find / Testing Program!!
+
+Please enter the name of the file you'd like to open
+8pair.txt
+
+8pair.txt took 0.07 seconds to run with Quick Find Algorithm
+8pair.txt took 0.003 seconds to run with Quick Union Algorithm
+8pair.txt took 0.002 seconds to run with Weight Quick Union Algorithm
+8pair.txt took 0.002 seconds to run with Weight Quick Union With Path Compression Algorithm
+
+Do you want to do another test? y for yes, n for no
+y
+
+Please enter the name of the file you'd like to open
+32pair.txt
+
+32pair.txt took 0.07 seconds to run with Quick Find Algorithm
+32pair.txt took 0.003 seconds to run with Quick Union Algorithm
+32pair.txt took 0.003 seconds to run with Weight Quick Union Algorithm
+32pair.txt took 0.002 seconds to run with Weight Quick Union With Path Compression Algorithm
+
+Do you want to do another test? y for yes, n for no
+y
+
+Please enter the name of the file you'd like to open
+128pair.txt
+
+128pair.txt took 0.067 seconds to run with Quick Find Algorithm
+128pair.txt took 0.005 seconds to run with Quick Union Algorithm
+128pair.txt took 0.004 seconds to run with Weight Quick Union Algorithm
+128pair.txt took 0.007 seconds to run with Weight Quick Union With Path Compression Algorithm
+
+Do you want to do another test? y for yes, n for no
+y
+
+Please enter the name of the file you'd like to open
+512pair.txt
+
+512pair.txt took 0.014 seconds to run with Quick Find Algorithm
+512pair.txt took 0.007 seconds to run with Quick Union Algorithm
+512pair.txt took 0.006 seconds to run with Weight Quick Union Algorithm
+512pair.txt took 0.006 seconds to run with Weight Quick Union With Path Compression Algorithm
+
+Do you want to do another test? y for yes, n for no
+y
+
+Please enter the name of the file you'd like to open
+1024pair.txt
+
+1024pair.txt took 0.028 seconds to run with Quick Find Algorithm
+1024pair.txt took 0.006 seconds to run with Quick Union Algorithm
+1024pair.txt took 0.006 seconds to run with Weight Quick Union Algorithm
+1024pair.txt took 0.005 seconds to run with Weight Quick Union With Path Compression Algorithm
+
+Do you want to do another test? y for yes, n for no
+y
+
+Please enter the name of the file you'd like to open
+4096pair.txt
+
+4096pair.txt took 0.105 seconds to run with Quick Find Algorithm
+4096pair.txt took 0.011 seconds to run with Quick Union Algorithm
+4096pair.txt took 0.009 seconds to run with Weight Quick Union Algorithm
+4096pair.txt took 0.015 seconds to run with Weight Quick Union With Path Compression Algorithm
+
+Do you want to do another test? y for yes, n for no
+y
+
+Please enter the name of the file you'd like to open
+8192pair.txt
+
+8192pair.txt took 0.121 seconds to run with Quick Find Algorithm
+8192pair.txt took 0.021 seconds to run with Quick Union Algorithm
+8192pair.txt took 0.018 seconds to run with Weight Quick Union Algorithm
+8192pair.txt took 0.017 seconds to run with Weight Quick Union With Path Compression Algorithm
+
+Do you want to do another test? y for yes, n for no
+n
+
+System quitting. Good bye!

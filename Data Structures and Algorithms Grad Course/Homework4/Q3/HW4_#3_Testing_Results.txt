@@ -1,0 +1,38 @@
+Please enter the size of the randomly generated numbers to put in the Red-Black Tree:
+1000000
+Building of R-B BST of size 1000000 took 1.079 seconds and therefore cost 1.079E-6 seconds per insertion
+Number of rotations and node splits: 1223391
+
+
+Do you want to do another test? Enter 'y' for yes and 'n' for no
+y
+
+Please enter the size of the randomly generated numbers to put in the Red-Black Tree:
+2000000
+Building of R-B BST of size 2000000 took 3.282 seconds and therefore cost 1.641E-6 seconds per insertion
+Number of rotations and node splits: 1669188
+
+
+Do you want to do another test? Enter 'y' for yes and 'n' for no
+y
+
+Please enter the size of the randomly generated numbers to put in the Red-Black Tree:
+5000000
+Building of R-B BST of size 5000000 took 9.119 seconds and therefore cost 1.8238E-6 seconds per insertion
+Number of rotations and node splits: 4280271
+
+
+Do you want to do another test? Enter 'y' for yes and 'n' for no
+y
+
+Please enter the size of the randomly generated numbers to put in the Red-Black Tree:
+10000000
+Building of R-B BST of size 10000000 took 25.841 seconds and therefore cost 2.5841E-6 seconds per insertion
+Number of rotations and node splits: 7689036
+
+
+Do you want to do another test? Enter 'y' for yes and 'n' for no
+n
+Program exiting. Good Bye!
+
+Process finished with exit code 0

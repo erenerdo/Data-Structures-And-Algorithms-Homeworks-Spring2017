@@ -1,0 +1,22 @@
+Please enter the prefix you'd like to test
+>>> +/ab-cd
+
+The expression +/ab-cd is a fully valid prefix expression! It's legal end is it's last term at index 6
+
+Do you want to do another test? Enter 'y' for yes and 'n' for no
+y
+Please enter the prefix you'd like to test
+>>> +/ab-cde
+
+The expression +/ab-cde is partially valid and it's legal end is at index 6
+
+Do you want to do another test? Enter 'y' for yes and 'n' for no
+y
+Please enter the prefix you'd like to test
+>>> ++/ab-cd
+
+The expression ++/ab-cd is not a valid prefix expression at all!
+
+Do you want to do another test? Enter 'y' for yes and 'n' for no
+n
+Program exiting. Good Bye!

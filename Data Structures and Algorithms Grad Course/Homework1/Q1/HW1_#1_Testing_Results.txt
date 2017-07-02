@@ -1,0 +1,77 @@
+Welcome to Eren Erdogan's Three Sum Testing Program!!
+
+Please enter the name of the file you'd like to use
+8int.txt
+Please enter the number of integers to use
+8
+0 triples found in 8int.txt 0.0 seconds using Brute-Force N^3 three sum algorithm
+0 triples found in 8int.txt 0.0 seconds using Fast N^2*lg(N) three sum algorithm
+
+Do you want to do another test? y for yes, n for no
+y
+Please enter the name of the file you'd like to use
+32int.txt
+Please enter the number of integers to use
+32
+0 triples found in 32int.txt 0.0 seconds using Brute-Force N^3 three sum algorithm
+0 triples found in 32int.txt 0.001 seconds using Fast N^2*lg(N) three sum algorithm
+
+Do you want to do another test? y for yes, n for no
+y
+Please enter the name of the file you'd like to use
+128int.txt
+Please enter the number of integers to use
+128
+0 triples found in 128int.txt 0.004 seconds using Brute-Force N^3 three sum algorithm
+0 triples found in 128int.txt 0.001 seconds using Fast N^2*lg(N) three sum algorithm
+
+Do you want to do another test? y for yes, n for no
+y
+Please enter the name of the file you'd like to use
+512int.txt
+Please enter the number of integers to use
+512
+0 triples found in 512int.txt 0.028 seconds using Brute-Force N^3 three sum algorithm
+0 triples found in 512int.txt 0.007 seconds using Fast N^2*lg(N) three sum algorithm
+
+Do you want to do another test? y for yes, n for no
+y
+Please enter the name of the file you'd like to use
+1024int.txt
+Please enter the number of integers to use
+1024
+0 triples found in 1024int.txt 0.138 seconds using Brute-Force N^3 three sum algorithm
+0 triples found in 1024int.txt 0.019 seconds using Fast N^2*lg(N) three sum algorithm
+
+Do you want to do another test? y for yes, n for no
+y
+Please enter the name of the file you'd like to use
+4096int.txt
+Please enter the number of integers to use
+4096
+0 triples found in 4096int.txt 7.432 seconds using Brute-Force N^3 three sum algorithm
+0 triples found in 4096int.txt 0.353 seconds using Fast N^2*lg(N) three sum algorithm
+
+Do you want to do another test? y for yes, n for no
+y
+Please enter the name of the file you'd like to use
+4192int.txt
+Please enter the number of integers to use
+4192
+0 triples found in 4192int.txt 7.961 seconds using Brute-Force N^3 three sum algorithm
+0 triples found in 4192int.txt 0.366 seconds using Fast N^2*lg(N) three sum algorithm
+
+Do you want to do another test? y for yes, n for no
+y
+Please enter the name of the file you'd like to use
+8192int.txt
+Please enter the number of integers to use
+8192
+0 triples found in 8192int.txt 63.476 seconds using Brute-Force N^3 three sum algorithm
+0 triples found in 8192int.txt 1.442 seconds using Fast N^2*lg(N) three sum algorithm
+
+Do you want to do another test? y for yes, n for no
+n
+System quitting. Good bye!
+
+Process finished with exit code 0

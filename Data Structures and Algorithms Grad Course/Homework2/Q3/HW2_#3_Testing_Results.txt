@@ -1,0 +1,84 @@
+Please enter the name of the file you'd like to use
+data0.1024.txt
+Please enter the number of integers to use
+1024
+
+Comparisons: 10240
+Top Down Mergesort operation took 0.003 seconds
+
+Comparisons: 10240
+Bottom Up Mergesourt operation took 0.0 seconds
+
+Do you want to do another test? y for yes, n for no
+y
+
+Please enter the name of the file you'd like to use
+data0.2048.txt
+Please enter the number of integers to use
+2048
+
+Comparisons: 22528
+Top Down Mergesort operation took 0.0 seconds
+
+Comparisons: 22528
+Bottom Up Mergesourt operation took 0.0 seconds
+
+Do you want to do another test? y for yes, n for no
+y
+
+Please enter the name of the file you'd like to use
+data0.4096.txt
+Please enter the number of integers to use
+4096
+
+Comparisons: 49152
+Top Down Mergesort operation took 0.001 seconds
+
+Comparisons: 49152
+Bottom Up Mergesourt operation took 0.0 seconds
+
+Do you want to do another test? y for yes, n for no
+y
+
+Please enter the name of the file you'd like to use
+data0.8192.txt
+Please enter the number of integers to use
+8192
+
+Comparisons: 106496
+Top Down Mergesort operation took 0.0 seconds
+
+Comparisons: 106496
+Bottom Up Mergesourt operation took 0.001 seconds
+
+Do you want to do another test? y for yes, n for no
+y
+
+Please enter the name of the file you'd like to use
+data0.16384.txt
+Please enter the number of integers to use
+16384
+
+Comparisons: 229376
+Top Down Mergesort operation took 0.001 seconds
+
+Comparisons: 229376
+Bottom Up Mergesourt operation took 0.001 seconds
+
+Do you want to do another test? y for yes, n for no
+y
+
+Please enter the name of the file you'd like to use
+data0.32768.txt
+Please enter the number of integers to use
+32768
+
+Comparisons: 491520
+Top Down Mergesort operation took 0.003 seconds
+
+Comparisons: 491520
+Bottom Up Mergesourt operation took 0.002 seconds
+
+Do you want to do another test? y for yes, n for no
+n
+System quitting. Good bye!

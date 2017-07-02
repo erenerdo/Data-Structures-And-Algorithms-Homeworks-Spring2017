@@ -1,0 +1,15 @@
+Please enter the name of the file you'd like to use
+hw3-q3-data.txt
+Constructing Binary Search Tree with data from text file. Please wait.
+BST Constructed!
+
+Please enter the number you'd like to search the rank of
+15
+Rank of 15 is 14097
+
+Please enter the number you'd like to search with the select method
+9
+Select of 9 is 1
+Do you want to do another test? y for yes, n for no
+n
+System quitting. Good bye!

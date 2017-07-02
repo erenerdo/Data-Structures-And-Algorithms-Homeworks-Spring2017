@@ -1,0 +1,143 @@
+//
+// Recursive Testing Results
+//
+
+Test 1:
+
+Please enter the origin airport: P
+Please enter the destination airport: X
+Attempting to fly from airport P to airport X
+Flying from P to R
+Flying from R to X
+Destination Reached!
+
+Test 2: 
+
+Please enter the origin airport: P
+Please enter the destination airport: Z
+Attempting to fly from airport P to airport Z
+Flying from P to R
+Flying from R to X
+Dead End Airport!
+Flying from P to W
+Flying from W to S
+Flying from S to T
+Flying from T to W
+Airport Already Visited!
+Flying from W to Y
+Flying from Y to R
+Airport Already Visited!
+Flying from Y to Z
+Destination Reached!
+
+Test 3:
+
+Please enter the origin airport: S
+Please enter the destination airport: X
+Attempting to fly from airport S to airport X
+Flying from S to T
+Flying from T to W
+Flying from W to S
+Airport Already Visited!
+Flying from W to Y
+Flying from Y to R
+Flying from R to X
+Destination Reached!
+
+Test 4:
+
+Please enter the origin airport: S
+Please enter the destination airport: Q
+Attempting to fly from airport S to airport Q
+Flying from S to T
+Flying from T to W
+Flying from W to S
+Airport Already Visited!
+Flying from W to Y
+Flying from Y to R
+Flying from R to X
+Dead End Airport!
+Flying from Y to Z
+Dead End Airport!
+Destination Could Not Be Reached!
+
+
+Test 5: 
+
+Please enter the origin airport: X
+Please enter the destination airport: P
+Attempting to fly from airport X to airport P
+Dead End Airport!
+Destination Could Not Be Reached!
+
+
+//
+// Stacks Testing Results
+//
+
+Test 1:
+
+Please enter the origin airport: P
+Please enter the destination airport: X
+Attempting to fly from airport P to airport X
+Flying from P to W
+Flying from W to Y
+Flying from Y to Z
+Dead End Airport Z!
+Flying from Y to R
+Flying from R to X
+Destination Reached!
+
+Test 2:
+
+Please enter the origin airport: P
+Please enter the destination airport: Z
+Attempting to fly from airport P to airport Z
+Flying from P to W
+Flying from W to Y
+Flying from Y to Z
+Destination Reached!
+
+Test 3:
+
+Please enter the origin airport: S
+Please enter the destination airport: X
+Attempting to fly from airport S to airport X
+Flying from S to T
+Flying from T to W
+Flying from W to Y
+Flying from Y to Z
+Dead End Airport Z!
+Flying from Y to R
+Flying from R to X
+Destination Reached!
+
+Test 4:
+
+Please enter the origin airport: S
+Please enter the destination airport: Q
+Attempting to fly from airport S to airport Q
+Flying from S to T
+Flying from T to W
+Flying from W to Y
+Flying from Y to Z
+Dead End Airport Z!
+Flying from Y to R
+Flying from R to X
+Dead End Airport X!
+Flying from W to S
+Airport Already Visited!
+Destination Could Not Be Reached!
+
+Test 5:
+
+Please enter the origin airport: X
+Please enter the destination airport: P
+Attempting to fly from airport X to airport P
+Dead End Airport X!
+
+
+
+
+
+

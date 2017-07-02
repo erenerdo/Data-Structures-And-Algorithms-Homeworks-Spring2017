@@ -1,0 +1,80 @@
+Please enter the size of the randomly generated array you'd like to sort: 10
+
+Three randomly chosen elements:
+a[i]: 4
+a[j]: 2
+a[k]: 9
+Median is 4
+4 swapped and now first element of array, will be used as pivot
+
+Quick Sort median-of-3 with insertion sort cutoff of 10 took 0.0 seconds on an array of size 10
+
+Top Down Mergesort with insertion sort cutoff of 10 took 0.0 seconds on an array of size 10
+
+Do you want to do another test? Enter 'y' for yes and 'n' for no
+y
+
+Please enter the size of the randomly generated array you'd like to sort: 1000
+
+Three randomly chosen elements:
+a[i]: 394
+a[j]: 603
+a[k]: 890
+Median is 603
+603 swapped and now first element of array, will be used as pivot
+
+Quick Sort median-of-3 with insertion sort cutoff of 10 took 0.001 seconds on an array of size 1000
+
+Top Down Mergesort with insertion sort cutoff of 10 took 0.001 seconds on an array of size 1000
+
+Do you want to do another test? Enter 'y' for yes and 'n' for no
+y
+
+Please enter the size of the randomly generated array you'd like to sort: 100000
+
+Three randomly chosen elements:
+a[i]: 4578
+a[j]: 6317
+a[k]: 34315
+Median is 6317
+6317 swapped and now first element of array, will be used as pivot
+
+Quick Sort median-of-3 with insertion sort cutoff of 10 took 0.027 seconds on an array of size 100000
+
+Top Down Mergesort with insertion sort cutoff of 10 took 0.036 seconds on an array of size 100000
+
+Do you want to do another test? Enter 'y' for yes and 'n' for no
+y
+
+Please enter the size of the randomly generated array you'd like to sort: 1000000
+
+Three randomly chosen elements:
+a[i]: 756640
+a[j]: 563244
+a[k]: 762844
+Median is 756640
+756640 swapped and now first element of array, will be used as pivot
+
+Quick Sort median-of-3 with insertion sort cutoff of 10 took 0.15 seconds on an array of size 1000000
+
+Top Down Mergesort with insertion sort cutoff of 10 took 0.155 seconds on an array of size 1000000
+
+Do you want to do another test? Enter 'y' for yes and 'n' for no
+y
+
+Please enter the size of the randomly generated array you'd like to sort: 10000000
+
+Three randomly chosen elements:
+a[i]: 2251195
+a[j]: 6403348
+a[k]: 9730612
+Median is 6403348
+6403348 swapped and now first element of array, will be used as pivot
+
+Quick Sort median-of-3 with insertion sort cutoff of 10 took 1.5 seconds on an array of size 10000000
+
+Top Down Mergesort with insertion sort cutoff of 10 took 1.866 seconds on an array of size 10000000
+
+Do you want to do another test? Enter 'y' for yes and 'n' for no
+n
+Program exiting. Good Bye!
